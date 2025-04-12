@@ -15,4 +15,4 @@
 
 5. Run the Container: ```docker run -e secret_user=<your_name> localhost:5000/demo```
 
-6. Create documents
+6. Create README.md (Processes) and [Instruction.md](/Instruction.md) (Guide for members in the group)

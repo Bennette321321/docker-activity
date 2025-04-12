@@ -1,4 +1,4 @@
-# How to Run This Container
+### How to Run This Container
 
 1. Pull the image:
    run "docker pull localhost:5000/docker-activity"
